@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+#Pagina1 {
+	background-image: url(../imagenes/fondo.jpg);
+	background-size:cover;
+	
+}
+h1 {
+	color:#990;
+}
+p {
+	color:#930;
+}
+h2 {
+	color:#06F;
+	border:1px;
+	}
+	h3{
+		color:#CC0;
+	}
+
+	
+
